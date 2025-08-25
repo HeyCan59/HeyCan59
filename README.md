@@ -16,6 +16,7 @@ print("版權所有 © 2021 - 2025 ∙ Red night moon Team")
 ### 程式語言:
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="python" width="40" height="40"/> </a>
 
 ---
 版權所有 © 2021 - 2025 ∙ Red night moon Team
