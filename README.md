@@ -9,7 +9,7 @@ print("版權所有 © 2021 - 2025 ∙ Red night moon Team")
 ```
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heycan59&layout=compact&theme=dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heycan59&layout=compact&theme=dark&)<br>
 ![Top Langs1](https://github-readme-stats-xx74.vercel.app/api/top-langs/?username=Heycan59&theme=dark)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Heycan59&show_icons=true&theme=dark)<br>
 
