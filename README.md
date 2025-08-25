@@ -19,4 +19,3 @@ print("版權所有 © 2021 - 2025 ∙ Red night moon Team")
 
 ---
 版權所有 © 2021 - 2025 ∙ Red night moon Team
-![Red night moon的discord](https://discord.gg/CHtjGwpfak)
