@@ -1,16 +1,22 @@
-## Hi there 👋
+# hi
 
-<!--
-**HeyCan59/HeyCan59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 我寫的Discord機器人，歡迎使用</br>[[https://discord.com/application-directory/1126517167966396436](https://discord.com/api/oauth2/authorize?client_id=996201996161917011&permissions=8&scope=bot)]</br>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+print("版權所有 © 2021 - 2025 ∙ Red night moon Team")
+```
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heycan59&layout=compact&theme=dark)<br>
+![Top Langs1](https://github-readme-stats-xx74.vercel.app/api/top-langs/?username=Heycan59&theme=dark&langs_count=8)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Heycan59&show_icons=true&theme=dark)<br>
+
+### 程式語言:
+
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+---
+版權所有 © 2021 - 2025 ∙ Red night moon Team
+![Red night moon的discord](https://discord.gg/CHtjGwpfak)
