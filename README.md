@@ -5,7 +5,7 @@
 ---
 
 ```py
-print("版權所有 © 2021 - 2025 ∙ Red night moon Team")
+print("版權所有 © 2021 - 2026 ∙ Red night moon Team")
 ```
 </br>
 
@@ -17,4 +17,4 @@ print("版權所有 © 2021 - 2025 ∙ Red night moon Team")
 <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="python" width="40" height="40"/> </a>
 
 ---
-版權所有 © 2021 - 2025 ∙ Red night moon Team
+版權所有 © 2021 - 2026 ∙ Red night moon Team
